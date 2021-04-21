@@ -1,2 +1,4 @@
-# OLA.Mundo.Rep
- Primeiro Repositorio Versionado Git e GitHub
+# Olá, Mundo!
+ Primeiro Repositório do curso de Git e GitHub
+
+Repositório criado durante uma aula do curso
